@@ -99,9 +99,9 @@ span.name::after {
  
 }
 
-#aboutSection > p{
-  /* position: relative !important; */
-}
+/* #aboutSection > p{
+  position: relative !important;
+} */
 
 #aboutSection #wrapper .fa-chevron-down{
   position: relative;
